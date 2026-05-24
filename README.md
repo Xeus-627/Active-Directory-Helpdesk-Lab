@@ -1,5 +1,5 @@
-**Role:** Lead Engineer
-**Project Focus:** IT Helpdesk, Identity Management, Endpoint Configuration
+**Role:** Lead Engineer  
+**Project Focus:** IT Helpdesk, Identity Management, Endpoint Configuration  
 **Status:** Completed
 
 # 📖 Executive Summary
