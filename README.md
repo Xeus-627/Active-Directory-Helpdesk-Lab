@@ -1,5 +1,3 @@
-<img width="1070" height="581" alt="image" src="https://github.com/user-attachments/assets/9f1fd382-ccbe-4426-8b86-0f32e377d983" /># Enterprise Virtual Infrastructure & Active Directory Lab
-
 **Role:** Lead Engineer
 **Project Focus:** IT Helpdesk, Identity Management, Endpoint Configuration
 **Status:** Completed
